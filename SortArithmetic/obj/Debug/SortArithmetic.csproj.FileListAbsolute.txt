@@ -1,0 +1,7 @@
+F:\TestProject\SortArithmetic\SortArithmetic\bin\Debug\SortArithmetic.exe.config
+F:\TestProject\SortArithmetic\SortArithmetic\bin\Debug\SortArithmetic.exe
+F:\TestProject\SortArithmetic\SortArithmetic\bin\Debug\SortArithmetic.pdb
+F:\TestProject\SortArithmetic\SortArithmetic\obj\Debug\SortArithmetic.csprojAssemblyReference.cache
+F:\TestProject\SortArithmetic\SortArithmetic\obj\Debug\SortArithmetic.csproj.CoreCompileInputs.cache
+F:\TestProject\SortArithmetic\SortArithmetic\obj\Debug\SortArithmetic.exe
+F:\TestProject\SortArithmetic\SortArithmetic\obj\Debug\SortArithmetic.pdb
