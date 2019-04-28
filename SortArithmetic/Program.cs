@@ -12,7 +12,9 @@ namespace SortArithmetic
         {
             int[] arry = {2,10,8,1,4,3,6,5,11 };
             //Sort.BubbleSort(arry);
-            Sort.SelectionSort(arry);
+            // Sort.SelectionSort(arry);
+            Sort.InsertionSort(arry);
+            //Sort.InsertionSort_2(arry);
             for (int i=0;i<arry.Length;i++)
             {
                 Console.WriteLine(arry[i]);
